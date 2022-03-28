@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hii, I'm Icksan 👋
 
+### About ME
+* Native Android Developer Using Kotlin
+* Love to learn something new
+* More interested in the backend more than the front end
+
+Thanks😄
 <!--
 **icksannugrahaa/icksannugrahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
