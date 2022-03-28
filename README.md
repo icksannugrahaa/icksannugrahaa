@@ -5,9 +5,9 @@
 * Love to learn something new
 * More interested in the backend more than the front end
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icksannugrahaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icksannugrahaa&theme=radical)]
 
 Thanks😄
 <!--
