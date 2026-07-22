@@ -1,26 +1,34 @@
-### Hii, I'm Icksan 👋
+```markdown
+# 👋 Hey, I'm Icksan Nugraha
 
-### About ME
-* Native Android Developer Using Kotlin
-* Love to learn something new
-* More interested in the backend more than the front end
+Android Developer from Bandung, Indonesia. I build mobile apps and occasionally dabble in web development. Currently working at **BRI via Indocyber**.
 
-![Icksan Nugraha's GitHub stats](https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight)
+When I'm not coding, I'm working on **[Sandroid](https://sandroid.my.id)** — an AI-powered project I'm building together with my AI assistant.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icksannugrahaa&theme=tokyonight)
+---
 
-Thanks😄
-<!--
-**icksannugrahaa/icksannugrahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm Working On
 
-Here are some ideas to get you started:
+### [Sandroid](https://sandroid.my.id)
+An AI ecosystem that includes:
+- **AI Router API** — A unified API gateway for routing requests to multiple AI models
+- **WhatsApp Bot** — An AI assistant integrated with WhatsApp for everyday tasks
+- **Automation Tools** — Various automation solutions built around AI capabilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Still in development, but getting better every day.*
+
+---
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sandroid.my.id-blue?style=flat&logo=vercel)](https://sandroid.my.id)
+[![GitHub](https://img.shields.io/badge/GitHub-icksannugrahaa-black?style=flat&logo=github)](https://github.com/icksannugrahaa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:icksannugrahaa@gmail.com)
+
+---
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icksannugrahaa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+```
