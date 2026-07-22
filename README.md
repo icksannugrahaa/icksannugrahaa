@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hey, I'm Icksan Nugraha
 
 Android Developer from Bandung, Indonesia. I build mobile apps and occasionally dabble in web development. Currently working at **BRI via Indocyber**.
@@ -31,4 +30,3 @@ An AI ecosystem that includes:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icksannugrahaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-```
