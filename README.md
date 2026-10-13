@@ -29,11 +29,19 @@ An AI ecosystem that includes:
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&border_color=30363D" alt="icksannugrahaa's stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=icksannugrahaa&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icksannugrahaa&theme=github_dark" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icksannugrahaa&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icksannugrahaa&theme=github_dark" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icksannugrahaa&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=icksannugrahaa&theme=github_dark&utcOffset=7" />
+
+<img src="https://streak-stats.demolab.com/?user=icksannugrahaa&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=icksannugrahaa&bg_color=0D0D0D&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&area_color=7B2FBE&hide_border=true" />
+
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icksannugrahaa&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="top langs" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icksannugrahaa&theme=github_dark" alt="profile details" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D0D0D&height=120&section=footer&text=&fontSize=0" />
