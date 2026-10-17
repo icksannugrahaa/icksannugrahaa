@@ -40,7 +40,6 @@ An AI ecosystem that includes:
 
 <img src="https://streak-stats.demolab.com/?user=icksannugrahaa&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=icksannugrahaa&bg_color=0D0D0D&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&area_color=7B2FBE&hide_border=true" />
 
 </div>
 
