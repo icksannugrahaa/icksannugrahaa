@@ -41,7 +41,6 @@ An AI ecosystem that includes:
 
 <img src="https://streak-stats.demolab.com/?user=icksannugrahaa&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
 
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D0D0D&height=120&section=footer&text=&fontSize=0" />
