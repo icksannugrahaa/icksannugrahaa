@@ -29,7 +29,7 @@ An AI ecosystem that includes:
 ## 📊 Stats
 
 <div align="center">
-<img align="center" width="360px" src="https://github-readme-stats-icksannugrahaa.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight&locale=en" alt="icksannugrahaa" /> 
+<img align="center" width="360px" src="https://github-readme-stats-icksannugrahaa-raruu.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight&locale=en" alt="icksannugrahaa" /> 
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icksannugrahaa&theme=github_dark" />
 
