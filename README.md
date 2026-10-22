@@ -28,7 +28,6 @@ An AI ecosystem that includes:
 
 ## 📊 Stats
 
-<img height="180" align="center" width="360px" src="https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight&locale=en" alt="icksannugrahaa" /> 
 <div align="center">
 
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icksannugrahaa&theme=github_dark" />
@@ -37,6 +36,7 @@ An AI ecosystem that includes:
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icksannugrahaa&theme=github_dark" />
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icksannugrahaa&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=icksannugrahaa&show_icons=true&theme=tokyonight&locale=en" alt="icksannugrahaa" /> 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=icksannugrahaa&theme=github_dark&utcOffset=7" />
 
 <img src="https://streak-stats.demolab.com/?user=icksannugrahaa&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
